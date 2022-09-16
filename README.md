@@ -1,47 +1,38 @@
-#  <span class="detalheTitulos"> NLW eSports - Trilha Explorer
-</span>
+# NLW eSports - Trilha Explorer
 
 ![preview](./.github/preview.png)
 
-Projeto construído com base no evento Next Weeck Levek da Rocketseat.
-<br> Contem adições pessoais ao conteúdo. ;) 
+# Information (en)
+Project built based on Rocketseat's Next Level Week event. Contains personal additions to the content. ;)
 
-#   <span class="detalheTitulos">   Tecnológias Usadas  
-</span>
+# Technologies in design used!
 
-<ol>
-    <li>
-        <span class="detalhe">  HTML
-        </span>
-    </li>
-    <li>
-        <span class="detalhe">  CSS
-        </span>
-    </li> 
-    <li>
-       <span class="detalhe">   Git
-       </span> 
-        and 
-       <span class="detalhe">   GitHub
-       </span>
-    </li>
-    <li>
-        <span class="detalhe">  JavaScript
-        </span>
-    </li> 
-</ol>
+1. HTML
+2. CSS
+3. JavaScript
+4. Git and GitHub
 
-<style>
-    
-    .detalheTitulos:hover {
-        color: #00ff00;
-   
-   }
+# My contacts
 
-    .detalhe:hover {
-        color: blueviolet;
-    }
-</style>
+1. E-mail: thailson-games-2002@hotmail.com
+2. Number: (81) 98893-0428
+3. Instagram: @Thailson.13
+
+# Informações (pt-BR)
+
+Projeto construído com base no evento Next Level Week da Rocketseat. Contém adições pessoais ao conteúdo. ;)
+
+# Tecnologias no projeto usadas! 
+1. HTML
+2. CSS
+3. JavaScript
+4. Git e GitHub
+
+# Meus contatos
+
+1. E-mail: thailson-games-2002@hotmail.com
+2. Número: (81) 98893-0428
+3. Instagram: @Thailson.13
 
 
 
