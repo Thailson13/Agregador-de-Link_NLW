@@ -26,7 +26,7 @@ Projeto construído com base no evento Next Level Week da Rocketseat. Contém ad
 
 [Clique aqui para acessar o site do projeto](https://thailson13.github.io/Agregador-de-Link_NLW/)
 
-# Tecnologias no projeto usadas! 
+# Tecnologias usadas no projeto! 
 1. HTML
 2. CSS
 3. JavaScript
